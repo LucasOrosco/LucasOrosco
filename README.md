@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasOrosco
 - 👀 I’m interested in expand my knowledge
-- 🌱 I’m currently learning CiberSegurança and developer
+- 🌱 I’m currently learning CiberSegurity and developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
